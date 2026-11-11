@@ -1,0 +1,10 @@
+Linear_scan_data_01.txt : MI no sample
+Linear_scan_data_02.txt : MI with sample
+Linear_scan_data_03.txt : HOM no sample
+Linear_scan_data_04.txt : HOM 2nd sample
+Linear_scan_data_05.txt : HOM 1st/thinnest sample
+Linear_scan_data_06.txt : HOM 3rd sample
+Linear_scan_data_07.txt : HOM waveplate 0
+Linear_scan_data_09.txt : HOM waveplate 0 adjusted scan size
+Linear_scan_data_08.txt : HOM waveplate 10
+Linear_scan_data_10.txt : HOM waveplate 23
